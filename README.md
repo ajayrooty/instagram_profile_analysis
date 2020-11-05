@@ -1,4 +1,4 @@
-# instagram_followers_extractor
+# instagram_profile_data_extracter
 
 Basically this is a python code to know people who didn't follow you back in instagram using selenium automation
 
