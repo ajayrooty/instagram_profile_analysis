@@ -13,12 +13,14 @@ import os
 import datetime
 from webdriver_manager.chrome import ChromeDriverManager
 
-count = 100  # number of profiles you want to scrap
-account = "gouthamdoesthings"  # account from
+account_name=input("enter the account name you want to scan")
+
+count = 100
+account = account_name
 page=["followers","following"]
 
-yourusername = "ajay__yadavalli" #your Instagram username
-yourpassword = "babu00tyo6"  #your Instagram password
+yourusername = input("enter your username") #your Instagram username
+yourpassword = input("enter your password")  #your Instagram password
 
 
 options = webdriver.ChromeOptions()
