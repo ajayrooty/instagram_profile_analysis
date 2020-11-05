@@ -5,13 +5,13 @@ Basically this is a python code to know people who didn't follow you back in ins
 Sorry for the messy code...
 
 
-Necessary things to run the code:-
+        Necessary things to run the code:-
 
-        Python3
+                Python3
 
-        selenium driver for chrome
+                selenium driver for chrome
 
-        web driver manager
+                web driver manager
 
 Any issues  ping me  ajay__yadavalli @instagram
 
